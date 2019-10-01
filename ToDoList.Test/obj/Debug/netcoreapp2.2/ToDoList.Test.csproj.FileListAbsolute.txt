@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/bin/Debug/netcoreapp2.2/ToDoList.Test.deps.json
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/bin/Debug/netcoreapp2.2/ToDoList.Test.runtimeconfig.json
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/bin/Debug/netcoreapp2.2/ToDoList.Test.runtimeconfig.dev.json
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/bin/Debug/netcoreapp2.2/ToDoList.Test.dll
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/bin/Debug/netcoreapp2.2/ToDoList.Test.pdb
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/bin/Debug/netcoreapp2.2/ToDoList.dll
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/bin/Debug/netcoreapp2.2/ToDoList.pdb
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/obj/Debug/netcoreapp2.2/ToDoList.Test.csprojAssemblyReference.cache
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/obj/Debug/netcoreapp2.2/ToDoList.Test.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/obj/Debug/netcoreapp2.2/ToDoList.Test.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/obj/Debug/netcoreapp2.2/ToDoList.Test.AssemblyInfo.cs
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/obj/Debug/netcoreapp2.2/ToDoList.Test.csproj.CopyComplete
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/obj/Debug/netcoreapp2.2/ToDoList.Test.dll
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList.Test/obj/Debug/netcoreapp2.2/ToDoList.Test.pdb
